@@ -136,5 +136,3 @@ This project is licensed under the [MIT License](./LICENSE).
 - **React DnD**: For drag-and-drop functionality.
 - **WebXR**: For laying the foundation for future AR integrations.
 ```
-
-This `README.md` file provides a clear overview of the project, its purpose, and instructions for installation, usage, and contributions. Let me know if you'd like to adjust or add anything!
