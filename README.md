@@ -39,7 +39,7 @@ AR Event Planner is a web-based application designed to help users visualize and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ar-event-planner.git
+   git clone https://github.com/sempijja/ar-event-planner.git
    cd ar-event-planner
    ```
 
