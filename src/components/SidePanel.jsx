@@ -14,7 +14,7 @@ const SidePanel = () => {
 
     return (
         <div className="w-1/4 bg-gray-200 p-4">
-            <h3 className="text-xl font-bold mb-4">Available Objects</h3>
+            <h3 className="text-2xl font-bold mb-4">Available Objects Here</h3>
             {objects.map((object) => (
                 <div
                     key={object.id}
@@ -23,7 +23,7 @@ const SidePanel = () => {
                     onDragStart={(e) => handleDragStart(e, object)}
                 >
                     <img src={object.thumbnail} alt={object.name} className="w-full h-auto" />
-                    <p className="text-center mt-2">{object.name}</p>
+                    <p className="text-center mt-2 text-black">{object.name}</p>
                 </div>
             ))}
         </div>
